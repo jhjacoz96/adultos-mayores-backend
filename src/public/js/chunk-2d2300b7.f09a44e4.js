@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2300b7"],{eb37:function(n,i,e){"use strict";e.r(i);var t,a,o=e("0dfe"),r=e("6512"),c={name:"Nutricion",metaInfo:{title:"Nutrición"},extends:o["a"],mixins:[Object(r["a"])(["hero-alt","intro-nutricion","variedad-alimentacion","porciones-necesarias","porcion-ideal"])],props:{id:{type:String,default:"nutricion"}}},u=c,l=e("2877"),s=Object(l["a"])(u,t,a,!1,null,null,null);i["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d2300b7.f09a44e4.js.map

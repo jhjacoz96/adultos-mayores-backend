@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22c2b4"],{f1a4:function(t,a,e){"use strict";e.r(a);var n,i,c=e("0dfe"),l=e("6512"),o={name:"Cita",metaInfo:{title:"Agendar cita"},extends:c["a"],mixins:[Object(l["a"])(["hero-alt","consulta"])],props:{id:{type:String,default:"cita"}}},s=o,u=e("2877"),d=Object(u["a"])(s,n,i,!1,null,null,null);a["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d22c2b4.b2029ced.js.map

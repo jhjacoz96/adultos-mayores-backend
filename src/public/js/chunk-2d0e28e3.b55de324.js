@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e28e3"],{"7ecb":function(e,i,a){"use strict";a.r(i);var n,t,c=a("0dfe"),s=a("6512"),u={name:"Fisica",metaInfo:{title:"Salud física"},extends:c["a"],mixins:[Object(s["a"])(["hero-alt","intro-salud","cuidado","rutina-ejercicios"])],props:{id:{type:String,default:"fisica"}}},d=u,l=a("2877"),o=Object(l["a"])(d,n,t,!1,null,null,null);i["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0e28e3.b55de324.js.map
