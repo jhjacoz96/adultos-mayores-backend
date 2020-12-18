@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d787"],{f843:function(e,s,n){"use strict";n.r(s);var o,t,a=n("0dfe"),i=n("6512"),p={name:"Somos",metaInfo:{title:"¿Quienes somos?"},extends:a["a"],mixins:[Object(i["a"])(["hero-alt","quienes-somos","participantes"])],props:{id:{type:String,default:"somos"}}},u=p,l=n("2877"),d=Object(l["a"])(u,o,t,!1,null,null,null);s["default"]=d.exports}}]);
-//# sourceMappingURL=chunk-2d22d787.467be315.js.map

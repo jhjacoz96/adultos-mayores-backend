@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cc96b"],{"4f25":function(a,e,t){"use strict";t.r(e);var u,i,n=t("0dfe"),l=t("6512"),p={name:"Esperitual",metaInfo:{title:"Salud esperitual"},extends:n["a"],mixins:[Object(l["a"])(["hero-alt","info-salud-espiritual","acupuntura","cuidado-acupuntura","masajes","aroma-terapia"])],props:{id:{type:String,default:"espiritual"}}},s=p,r=t("2877"),c=Object(r["a"])(s,u,i,!1,null,null,null);e["default"]=c.exports}}]);
-//# sourceMappingURL=chunk-2d0cc96b.cd2b9f4a.js.map

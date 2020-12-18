@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-747451d7"],{"412a9":function(o,e,n){"use strict";n.r(e);var i,a,t=n("0dfe"),c=n("6512"),l={name:"Psicoemocional",metaInfo:{title:"Salud psicoemocional"},extends:t["a"],mixins:[Object(c["a"])(["hero-alt","intro-psicoemocional"])],props:{id:{type:String,default:"psicoemocional"}}},s=l,p=n("2877"),u=Object(p["a"])(s,i,a,!1,null,null,null);e["default"]=u.exports}}]);
-//# sourceMappingURL=chunk-747451d7.f0c36bbe.js.map

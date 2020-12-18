@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d3155"],{"5af9":function(e,d,i){"use strict";i.r(d);var a,n,t=i("0dfe"),o=i("6512"),u={name:"Cuidado",metaInfo:{title:"Cuidados de la piel y prevención de accidentes"},extends:t["a"],mixins:[Object(o["a"])(["hero-alt","inf-cuidado-piel","riesgo-ulcera","tips-cuidado"])],props:{id:{type:String,default:"cuidado"}}},c=u,l=i("2877"),p=Object(l["a"])(c,a,n,!1,null,null,null);d["default"]=p.exports}}]);
-//# sourceMappingURL=chunk-2d0d3155.0d929b7c.js.map
