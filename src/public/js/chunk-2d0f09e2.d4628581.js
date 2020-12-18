@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f09e2"],{"9cac":function(n,i,e){"use strict";e.r(i);var o,t,a=e("0dfe"),s=e("6512"),c={name:"Inicio",metaInfo:{title:"Inicio"},extends:a["a"],mixins:[Object(s["a"])(["hero","tipo-adultos","infografias","quienes-son","comentarios"])],props:{id:{type:String,default:"inicio"}}},u=c,l=e("2877"),p=Object(l["a"])(u,o,t,!1,null,null,null);i["default"]=p.exports}}]);
-//# sourceMappingURL=chunk-2d0f09e2.d4628581.js.map
