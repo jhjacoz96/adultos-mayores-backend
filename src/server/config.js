@@ -12,14 +12,13 @@ module.exports = app => {
     //--------middleware------//
     app.use(morgan('dev'));
     app.use(cors());
-  
     
     app.use(express.urlencoded({
         extended:false,
         useUnifiedTopology: true
     }))
     app.use(express.json());
-                
+
     //---------route---------//
     routes(app);
     
